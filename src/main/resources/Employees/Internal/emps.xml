@@ -1,0 +1,20 @@
+<list>
+  <person>
+    <personId>MK1</personId>
+    <firstName>Mike</firstName>
+    <lastName>Kowalski</lastName>
+    <mobile>+4515516126</mobile>
+    <email>email2@gmail.com</email>
+    <pesel>34215682134</pesel>
+    <type>INTERNAL</type>
+  </person>
+  <person>
+    <personId>HF1</personId>
+    <firstName>Henry</firstName>
+    <lastName>Ford</lastName>
+    <mobile>+666666666</mobile>
+    <email>email@gmail.com</email>
+    <pesel>1234567891011</pesel>
+    <type>INTERNAL</type>
+  </person>
+</list>
