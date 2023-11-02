@@ -30,7 +30,6 @@ public class XMLHandler {
         try {
             FileInputStream fis = new FileInputStream(filePath);
 
-            // Deserialize the list of persons
             List<Person> persons = (List<Person>) xstream.fromXML(fis);
 
             return persons;
